@@ -38,7 +38,7 @@
     "debug": "^4.1.1",
     "dotenv": "^4.0.0",
     "express": "^4.16.4",
-    "mongoose": "5.7.10",
+    "mongoose": "5.12.4",
     "requestify": "^0.2.5"
   },
   "devDependencies": {
